@@ -1,0 +1,18 @@
+.BG {
+    background: url('../images/bg/bg.jpg') no-repeat;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+.logo-part {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 0.53125rem 0.53125rem;
+}
+
+.logo-part img{
+    height: 1.8125rem;
+}
